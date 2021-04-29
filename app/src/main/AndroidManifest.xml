@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloKotlin">
         <activity
+            android:name=".VariableKotlinActivity"
+            android:label="VariableKotlinActivity"></activity>
+        <activity
+            android:name=".VariableJavaActivity"
+            android:label="VariableJavaActivity" />
+        <activity
             android:name=".BmiJavaActivity"
             android:label="BmiJavaActivity" />
         <activity
